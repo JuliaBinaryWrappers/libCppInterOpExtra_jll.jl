@@ -1,6 +1,6 @@
 name = "libCppInterOpExtra_jll"
 uuid = "389a429b-44cc-5496-a6f5-f62ac9baf48b"
-version = "0.0.2+0"
+version = "0.0.3+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

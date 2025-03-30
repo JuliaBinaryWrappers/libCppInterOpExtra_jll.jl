@@ -9,7 +9,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "0a59d83d990c22c8c56e536b13b7d0d0b81abf38a2b60cc8e304114ace3c28f9"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.i686-linux-gnu-cxx03-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.i686-linux-gnu-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -21,7 +21,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "0a59d83d990c22c8c56e536b13b7d0d0b81abf38a2b60cc8e304114ace3c28f9"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.i686-linux-gnu-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.i686-linux-gnu-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -33,7 +33,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "53eac62267ef2c1c068ccbdb33b5dddf3de49a60543b78836ff2e4e71ce31ffc"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.x86_64-linux-gnu-cxx03-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.x86_64-linux-gnu-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -45,7 +45,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "53eac62267ef2c1c068ccbdb33b5dddf3de49a60543b78836ff2e4e71ce31ffc"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.x86_64-linux-gnu-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.x86_64-linux-gnu-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -57,7 +57,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "f2674220480d0c96658d8b10ec25a882838d6aba32488d9a9ba2cdb76556508f"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.aarch64-linux-gnu-cxx03-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.aarch64-linux-gnu-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -69,7 +69,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "f2674220480d0c96658d8b10ec25a882838d6aba32488d9a9ba2cdb76556508f"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.aarch64-linux-gnu-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.aarch64-linux-gnu-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -82,7 +82,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "a766bef984c6ecfa47a85494b4dfd37819adf01ece21285f79a2e74af4af434a"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.armv6l-linux-gnueabihf-cxx03-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.armv6l-linux-gnueabihf-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -95,7 +95,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "a766bef984c6ecfa47a85494b4dfd37819adf01ece21285f79a2e74af4af434a"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.armv6l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.armv6l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -108,7 +108,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "f8d6fab648991b3f4a0ce69b478eed88daab1215592c2867d6ea10d2482c9149"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.armv7l-linux-gnueabihf-cxx03-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.armv7l-linux-gnueabihf-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -121,7 +121,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "f8d6fab648991b3f4a0ce69b478eed88daab1215592c2867d6ea10d2482c9149"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.armv7l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.armv7l-linux-gnueabihf-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -133,7 +133,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "85e6d8307187f17fc1a536b19b63655432272e21117063b83b4653a21513f017"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.powerpc64le-linux-gnu-cxx03-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.powerpc64le-linux-gnu-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -145,7 +145,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "85e6d8307187f17fc1a536b19b63655432272e21117063b83b4653a21513f017"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.powerpc64le-linux-gnu-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.powerpc64le-linux-gnu-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -157,7 +157,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "e11eb4eb23d576c3e04ae5ec06b1d1583958e75d9b7fd9e08a28b4c91ea76b8e"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.x86_64-linux-musl-cxx03-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.x86_64-linux-musl-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -169,7 +169,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "e11eb4eb23d576c3e04ae5ec06b1d1583958e75d9b7fd9e08a28b4c91ea76b8e"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.x86_64-linux-musl-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.x86_64-linux-musl-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -181,7 +181,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "57aaafd84ad9b9488c011766132d7c950fd1bfd74273fa10debb899332dbb3d5"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.aarch64-linux-musl-cxx03-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.aarch64-linux-musl-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -193,7 +193,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "57aaafd84ad9b9488c011766132d7c950fd1bfd74273fa10debb899332dbb3d5"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.aarch64-linux-musl-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.aarch64-linux-musl-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -206,7 +206,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "a6a8ae03e2d108f3caf9de51b7b1485468d09442dd03af6ba26398e21b794514"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.armv6l-linux-musleabihf-cxx03-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.armv6l-linux-musleabihf-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -219,7 +219,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "a6a8ae03e2d108f3caf9de51b7b1485468d09442dd03af6ba26398e21b794514"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.armv6l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.armv6l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -232,7 +232,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "8952efc7ed61bcac252c977c2f1ab965dfa0e0597e2e8b790921ba19523068f7"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.armv7l-linux-musleabihf-cxx03-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.armv7l-linux-musleabihf-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -245,7 +245,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "8952efc7ed61bcac252c977c2f1ab965dfa0e0597e2e8b790921ba19523068f7"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.armv7l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.armv7l-linux-musleabihf-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "x86_64"
 git-tree-sha1 = "f6a0801d1afae05c92524e90ed7d74184e3b74a2"
@@ -255,7 +255,7 @@ os = "macos"
 
     [[libCppInterOpExtra.download]]
     sha256 = "74d103bb5047f33ef911ad0b3e217ea4d34867e24101bd666b22537ce85cf45c"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.x86_64-apple-darwin-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.x86_64-apple-darwin-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "aarch64"
 git-tree-sha1 = "05e039777895561f33ae0f8d1338027879f13d90"
@@ -265,71 +265,61 @@ os = "macos"
 
     [[libCppInterOpExtra.download]]
     sha256 = "8d374fd8b3410703b65bf9ac189acbb49c7f298aac0066b6d6dbf25d6661bf02"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.aarch64-apple-darwin-llvm_version+18.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.aarch64-apple-darwin-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "x86_64"
-git-tree-sha1 = "7a6c1a79c8a29ee8a2e7ecf343dd98493de3f842"
+git-tree-sha1 = "59c9189ba4b5baf814d703e2d164a14c94085e59"
 lazy = true
 llvm_version = "18"
 os = "freebsd"
 
     [[libCppInterOpExtra.download]]
-    sha256 = "3f546b9fa966ffa62e528b66bdbc268551f517cc2804b87e59aef11e34b35df5"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.x86_64-unknown-freebsd-llvm_version+18.tar.gz"
-[[libCppInterOpExtra]]
-arch = "aarch64"
-git-tree-sha1 = "284d2bebf14aa34b5216c4ec367b3740f96e735a"
-lazy = true
-llvm_version = "18"
-os = "freebsd"
-
-    [[libCppInterOpExtra.download]]
-    sha256 = "0fad7de13106b07c1dfbd77947d45040ce16803491b15727934ea0fd4ae16db4"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.aarch64-unknown-freebsd-llvm_version+18.tar.gz"
+    sha256 = "5636011851783a7ae71f30a46031babd50ed24eb94013f2d4835d8e8df790fdb"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.x86_64-unknown-freebsd-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "be8ea9eb366e05928564953ff1e1081ae7bd3f0e"
+git-tree-sha1 = "0cbbf7204c218e7db029236f911303524ad7d2c9"
 lazy = true
 llvm_version = "18"
 os = "windows"
 
     [[libCppInterOpExtra.download]]
-    sha256 = "5f0596f7641dff7efaa8844c5ca2a766ef78d59238979151e10ec8c48198001e"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.i686-w64-mingw32-cxx03-llvm_version+18.tar.gz"
+    sha256 = "35458827c35fc054817c1d17634113858b9798854f4143b1e6d2ffac7721903d"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.i686-w64-mingw32-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "99737c60955154d6eea8564978166cf8ccc7c0ce"
+git-tree-sha1 = "6e36358602d38ca770b9eea76b5ddc173486b8b9"
 lazy = true
 llvm_version = "18"
 os = "windows"
 
     [[libCppInterOpExtra.download]]
-    sha256 = "a9e02541af9786e89ba22160033842a899929c26492375961802d13c4d0ba267"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.i686-w64-mingw32-cxx11-llvm_version+18.tar.gz"
+    sha256 = "8fecd6ffe4546507c77662b22e01ca20f0a641422b10a23f2262c4532cbd08a9"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.i686-w64-mingw32-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1db6f8e96e28d1e3bb0f6edfdf7699fc43122b55"
+git-tree-sha1 = "d0d0722f85de99fc1c8764c24e197cbe1052bc1a"
 lazy = true
 llvm_version = "18"
 os = "windows"
 
     [[libCppInterOpExtra.download]]
-    sha256 = "f29a9cb292509f3db3ec6750fa4f27883cbb89b7024ae9b5d8365f601161a6e2"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.x86_64-w64-mingw32-cxx03-llvm_version+18.tar.gz"
+    sha256 = "9b2acef6079b0950f213fb5361305956963a3db18d64739adf83dbb3a303e70b"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.x86_64-w64-mingw32-cxx03-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "80f83b88bcab44984398d141c3f3cfd74afd8492"
+git-tree-sha1 = "2717a87ade5586564cc792edad76ee618f5f90c6"
 lazy = true
 llvm_version = "18"
 os = "windows"
 
     [[libCppInterOpExtra.download]]
-    sha256 = "4d065df9b7ad18b6fa4d89e72138db332b24906fb2238b4b74ac89aab1439d38"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.x86_64-w64-mingw32-cxx11-llvm_version+18.tar.gz"
+    sha256 = "7353ff0f266201694c42feeb03c637ca52cb2ff388b2e7f8c8b939de890bfdcb"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.x86_64-w64-mingw32-cxx11-llvm_version+18.tar.gz"
 [[libCppInterOpExtra]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -341,7 +331,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "885ee555296a1d68187bf1f2286834b2d1267470286d59b01ea3b27c1a726565"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.i686-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.i686-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -353,7 +343,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "885ee555296a1d68187bf1f2286834b2d1267470286d59b01ea3b27c1a726565"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.i686-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.i686-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -365,7 +355,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "ed6b4eccd15c0fa0f58008876a34e64b997e606f52369f411f34d7796235ba28"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.x86_64-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.x86_64-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -377,7 +367,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "ed6b4eccd15c0fa0f58008876a34e64b997e606f52369f411f34d7796235ba28"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.x86_64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.x86_64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -389,7 +379,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "273c9c3209651609544112d9af17301a7f1599e4fa96913d2a2b19533993f6ec"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.aarch64-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.aarch64-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -401,7 +391,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "273c9c3209651609544112d9af17301a7f1599e4fa96913d2a2b19533993f6ec"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.aarch64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.aarch64-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -414,7 +404,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "91db599f370b3d18e2c39a3b3d2756d1cdbf97a64c5dde45f8e9a9c8878333c8"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.armv6l-linux-gnueabihf-cxx03-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.armv6l-linux-gnueabihf-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -427,7 +417,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "91db599f370b3d18e2c39a3b3d2756d1cdbf97a64c5dde45f8e9a9c8878333c8"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.armv6l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.armv6l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -440,7 +430,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "8a846bfe63861f82dfc0d31baff63d83f5c4cc9676f070b686c0010020a7d637"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.armv7l-linux-gnueabihf-cxx03-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.armv7l-linux-gnueabihf-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -453,7 +443,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "8a846bfe63861f82dfc0d31baff63d83f5c4cc9676f070b686c0010020a7d637"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.armv7l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.armv7l-linux-gnueabihf-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -465,7 +455,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "47cdeaf30668d2ba5196d9c8524056065ff17906ab060cd6729e0fc243313440"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.powerpc64le-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.powerpc64le-linux-gnu-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -477,7 +467,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "47cdeaf30668d2ba5196d9c8524056065ff17906ab060cd6729e0fc243313440"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.powerpc64le-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.powerpc64le-linux-gnu-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -489,7 +479,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "e3b0ebcf355889fe2921d3385cbf8dc24f96ad963463e0c4e6e945cc3e428ea9"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.x86_64-linux-musl-cxx03-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.x86_64-linux-musl-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -501,7 +491,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "e3b0ebcf355889fe2921d3385cbf8dc24f96ad963463e0c4e6e945cc3e428ea9"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.x86_64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.x86_64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -513,7 +503,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "f39fbfff2226fa1df2067d54ad18ea83890fa41b7b51dd295ee5e25af941da77"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.aarch64-linux-musl-cxx03-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.aarch64-linux-musl-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -525,7 +515,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "f39fbfff2226fa1df2067d54ad18ea83890fa41b7b51dd295ee5e25af941da77"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.aarch64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.aarch64-linux-musl-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -538,7 +528,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "38bd1e9ed424df2944b6508ae1d5fcc87a632051639eb49774a1b73bbf22f8ce"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.armv6l-linux-musleabihf-cxx03-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.armv6l-linux-musleabihf-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -551,7 +541,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "38bd1e9ed424df2944b6508ae1d5fcc87a632051639eb49774a1b73bbf22f8ce"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.armv6l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.armv6l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -564,7 +554,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "7c13949624841cee0880e285c4178842e3825c17ddb5e21814f66607b37ad829"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.armv7l-linux-musleabihf-cxx03-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.armv7l-linux-musleabihf-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -577,7 +567,7 @@ os = "linux"
 
     [[libCppInterOpExtra.download]]
     sha256 = "7c13949624841cee0880e285c4178842e3825c17ddb5e21814f66607b37ad829"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.armv7l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.armv7l-linux-musleabihf-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "x86_64"
 git-tree-sha1 = "0f3765bc32627070e41f41d520d137f79e6e3f85"
@@ -587,7 +577,7 @@ os = "macos"
 
     [[libCppInterOpExtra.download]]
     sha256 = "41ab6357bbbd71b45be485c89c5ddafa9c21b7d0da52f9772075ca474700959a"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.x86_64-apple-darwin-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.x86_64-apple-darwin-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "aarch64"
 git-tree-sha1 = "bc8094d2edc17f2b86525f264ff9ee9a93432377"
@@ -597,68 +587,58 @@ os = "macos"
 
     [[libCppInterOpExtra.download]]
     sha256 = "1e5d5e22d89227dcd9ae8cd09a795a61be12a2dc4b6343835deb7d0675efde69"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.aarch64-apple-darwin-llvm_version+18.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.aarch64-apple-darwin-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "x86_64"
-git-tree-sha1 = "570b4b446a5145522bce6c8efa9d611116b474df"
+git-tree-sha1 = "05418f8cd495209c3fbeb6ce736feb76cef1339a"
 lazy = true
 llvm_version = "18.asserts"
 os = "freebsd"
 
     [[libCppInterOpExtra.download]]
-    sha256 = "7ee2e397dff4d3a19b3e32bf0d6e70e8e0b1896bbad01adfdd1907cbf0abb820"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.x86_64-unknown-freebsd-llvm_version+18.asserts.tar.gz"
-[[libCppInterOpExtra]]
-arch = "aarch64"
-git-tree-sha1 = "b6ac356accd005b2d6ff22d9e4f3ce4ada8aa56c"
-lazy = true
-llvm_version = "18.asserts"
-os = "freebsd"
-
-    [[libCppInterOpExtra.download]]
-    sha256 = "dab5a8f42f9ee3822b57ac3d867df15450a883df7263080f53565a7d65f0ba5c"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.aarch64-unknown-freebsd-llvm_version+18.asserts.tar.gz"
+    sha256 = "965059286305b80d037550f1ed2b745d299c36efe0e212e6d318a226b84f90c0"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.x86_64-unknown-freebsd-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "862042704baf810575215535f79816e979a6e6a2"
+git-tree-sha1 = "d1208a935301f8e2c5a637060376995dcde4adaf"
 lazy = true
 llvm_version = "18.asserts"
 os = "windows"
 
     [[libCppInterOpExtra.download]]
-    sha256 = "2ba2b6e558ac6b1afe2d8064b15fa52c274b83cc655c8044b4863fa802f2563f"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.i686-w64-mingw32-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "904f188a1816fdf7bb869ee43ab753419c4e3759b2be689f150bdfadcfcf0cd7"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.i686-w64-mingw32-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9ff2139d290d9c757f74228aadfb1f84400f7906"
+git-tree-sha1 = "2f94f63362da75d6ce54ff8c37579daccdc0d269"
 lazy = true
 llvm_version = "18.asserts"
 os = "windows"
 
     [[libCppInterOpExtra.download]]
-    sha256 = "45f0ef37b189f5eeb266746c03d49a1fcc53657322025605287d2407e6b07c4a"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.i686-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "93aeb0398e488aa0de06a6a00d590715c02332cae50d6dacf76dddb3a78c4827"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.i686-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e07aa79d01da5cfcbc7c99655f7a80a8597cfa2f"
+git-tree-sha1 = "9853b45a81b48a2d1ebee76ae0743f074a5162bf"
 lazy = true
 llvm_version = "18.asserts"
 os = "windows"
 
     [[libCppInterOpExtra.download]]
-    sha256 = "8a5f549517fc1b3583c018bafbfc788795760f4645cbf7b8aaf26d3e0d1eeb78"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.x86_64-w64-mingw32-cxx03-llvm_version+18.asserts.tar.gz"
+    sha256 = "18ab4e88c3690e7d7b760ce4cc2ddacdef547b429973b79e13cf1d18fcfc77d9"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.x86_64-w64-mingw32-cxx03-llvm_version+18.asserts.tar.gz"
 [[libCppInterOpExtra]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fc6d4e2c1e791698bc2096aa3272ce9eb66d1827"
+git-tree-sha1 = "8331633a1ec8e8b2b192070b1fa370316e1a4de9"
 lazy = true
 llvm_version = "18.asserts"
 os = "windows"
 
     [[libCppInterOpExtra.download]]
-    sha256 = "8cb3ef4513640306b1e86cbc4ec8959661b569e3abf7da8b21b64428df0b50b6"
-    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.2+0/libCppInterOpExtra.v0.0.2.x86_64-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
+    sha256 = "898343ce5bbeb2d10b1a03fea9606113c9f12ae8d29401cb3c8c8360c57cec09"
+    url = "https://github.com/JuliaBinaryWrappers/libCppInterOpExtra_jll.jl/releases/download/libCppInterOpExtra-v0.0.3+0/libCppInterOpExtra.v0.0.3.x86_64-w64-mingw32-cxx11-llvm_version+18.asserts.tar.gz"
